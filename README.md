@@ -8,9 +8,9 @@ O jogo reproduz a mecânica e a estética do Snake que aparece na busca do Googl
 
 ## 📸 Screenshots
 
-| Tela de início | Jogo em execução |
-|:---:|:---:|
-| ![Tela de início](Recursos/Imagens/screenshots/menu.png) | ![Gameplay](Recursos/Imagens/screenshots/gameplay.png) |
+| Tela de início | Jogo em execução | Cobra maior |
+|:---:|:---:|:---:|
+| ![Tela de início](Recursos/Imagens/screenshots/menu.png) | ![Gameplay](Recursos/Imagens/screenshots/gameplay.png) | ![Cobra crescida](Recursos/Imagens/screenshots/gameplay-2.png) |
 
 ## 🖼️ Recursos
 
