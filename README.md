@@ -6,6 +6,12 @@ Um clone do clássico jogo da cobrinha do Google (Google Snake), feito em Python
 
 O jogo reproduz a mecânica e a estética do Snake que aparece na busca do Google: a cobra se move por um tabuleiro em xadrez verde, coletando maçãs para crescer, com placar de pontos atuais e recorde na tela.
 
+## 📸 Screenshots
+
+| Tela de início | Jogo em execução |
+|:---:|:---:|
+| ![Tela de início](Recursos/Imagens/screenshots/menu.png) | ![Gameplay](Recursos/Imagens/screenshots/gameplay.png) |
+
 ## 🖼️ Recursos
 
 - `Recursos/Imagens/` — spritesheets da cobra/fruta, ícones (maçã e troféu) e telas de fundo/início.
@@ -52,5 +58,6 @@ python main.py
 ├── main.py              # Lógica principal do jogo
 └── Recursos/
     ├── Imagens/         # Sprites e telas
+    │   └── screenshots/ # Capturas de tela do jogo (usadas neste README)
     └── Sons/            # Músicas e efeitos sonoros
 ```
